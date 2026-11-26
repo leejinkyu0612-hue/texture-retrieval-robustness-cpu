@@ -1,0 +1,44 @@
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights:   2%|▏         | 5/223 [00:00<00:04, 48.89it/s]Loading weights:   5%|▍         | 11/223 [00:00<00:04, 47.28it/s]Loading weights:   8%|▊         | 17/223 [00:00<00:03, 52.38it/s]Loading weights:  10%|█         | 23/223 [00:00<00:04, 41.97it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 420.61it/s]
+{"tag": "DINOv2-B-14__fp32__160", "condition": "gallery", "n_images": 3760, "img_per_s": 7.83}
+{"tag": "DINOv2-B-14__fp32__160", "condition": "clean", "n_images": 940, "img_per_s": 7.68}
+{"tag": "DINOv2-B-14__fp32__160", "condition": "low_light_s2", "n_images": 940, "img_per_s": 7.83}
+{"tag": "DINOv2-B-14__fp32__160", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 7.76}
+{"tag": "DINOv2-B-14__fp32__160", "condition": "rotation_s2", "n_images": 940, "img_per_s": 7.54}
+{"tag": "DINOv2-B-14__fp32__160", "condition": "perspective_s2", "n_images": 940, "img_per_s": 7.3}
+{"tag": "DINOv2-B-14__fp32__160", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 7.71}
+{"tag": "DINOv2-B-14__fp32__160", "condition": "blur_s2", "n_images": 940, "img_per_s": 7.63}
+{"tag": "DINOv2-B-14__fp32__160", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 7.61}
+{"tag": "DINOv2-B-14__fp32__160", "condition": "downscale_s2", "n_images": 940, "img_per_s": 7.56}
+[transformers] Model config: bos_token_id must be `None` or an integer within the vocabulary (between 0 and 31999), got 49406. This may result in unexpected behavior.
+[transformers] Model config: eos_token_id must be `None` or an integer within the vocabulary (between 0 and 31999), got 49407. This may result in unexpected behavior.
+Loading weights:   0%|          | 0/408 [00:00<?, ?it/s]Loading weights:   2%|▏         | 8/408 [00:00<00:05, 67.34it/s]Loading weights:   4%|▍         | 17/408 [00:00<00:04, 78.59it/s]Loading weights:   6%|▋         | 26/408 [00:00<00:04, 80.74it/s]Loading weights:   9%|▉         | 37/408 [00:00<00:04, 91.36it/s]Loading weights:  12%|█▏        | 47/408 [00:00<00:04, 73.29it/s]Loading weights:  13%|█▎        | 55/408 [00:00<00:06, 56.06it/s]Loading weights:  16%|█▌        | 64/408 [00:00<00:05, 58.47it/s]Loading weights:  18%|█▊        | 74/408 [00:01<00:05, 64.60it/s]Loading weights:  21%|██        | 84/408 [00:01<00:04, 70.74it/s]Loading weights:  23%|██▎       | 94/408 [00:01<00:04, 66.03it/s]Loading weights:  25%|██▍       | 101/408 [00:01<00:04, 64.94it/s]Loading weights:  26%|██▋       | 108/408 [00:01<00:05, 51.56it/s]Loading weights:  93%|█████████▎| 380/408 [00:01<00:00, 618.24it/s]Loading weights: 100%|██████████| 408/408 [00:01<00:00, 223.96it/s]
+{"tag": "SigLIP-B-16__fp32__160", "condition": "gallery", "n_images": 3760, "img_per_s": 8.23}
+{"tag": "SigLIP-B-16__fp32__160", "condition": "clean", "n_images": 940, "img_per_s": 8.34}
+{"tag": "SigLIP-B-16__fp32__160", "condition": "low_light_s2", "n_images": 940, "img_per_s": 8.24}
+{"tag": "SigLIP-B-16__fp32__160", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 8.46}
+{"tag": "SigLIP-B-16__fp32__160", "condition": "rotation_s2", "n_images": 940, "img_per_s": 8.19}
+{"tag": "SigLIP-B-16__fp32__160", "condition": "perspective_s2", "n_images": 940, "img_per_s": 7.44}
+{"tag": "SigLIP-B-16__fp32__160", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 7.74}
+{"tag": "SigLIP-B-16__fp32__160", "condition": "blur_s2", "n_images": 940, "img_per_s": 7.67}
+{"tag": "SigLIP-B-16__fp32__160", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 8.04}
+{"tag": "SigLIP-B-16__fp32__160", "condition": "downscale_s2", "n_images": 940, "img_per_s": 7.5}
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 9519.57it/s]
+{"tag": "CLIP-B-16__fp32__160", "condition": "gallery", "n_images": 3760, "img_per_s": 7.49}
+{"tag": "CLIP-B-16__fp32__160", "condition": "clean", "n_images": 940, "img_per_s": 7.54}
+{"tag": "CLIP-B-16__fp32__160", "condition": "low_light_s2", "n_images": 940, "img_per_s": 7.57}
+{"tag": "CLIP-B-16__fp32__160", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 7.6}
+{"tag": "CLIP-B-16__fp32__160", "condition": "rotation_s2", "n_images": 940, "img_per_s": 7.31}
+{"tag": "CLIP-B-16__fp32__160", "condition": "perspective_s2", "n_images": 940, "img_per_s": 7.1}
+{"tag": "CLIP-B-16__fp32__160", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 7.53}
+{"tag": "CLIP-B-16__fp32__160", "condition": "blur_s2", "n_images": 940, "img_per_s": 7.42}
+{"tag": "CLIP-B-16__fp32__160", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 7.59}
+{"tag": "CLIP-B-16__fp32__160", "condition": "downscale_s2", "n_images": 940, "img_per_s": 7.45}
+Loading weights:   0%|          | 0/318 [00:00<?, ?it/s]Loading weights:  27%|██▋       | 85/318 [00:00<00:00, 836.63it/s]Loading weights: 100%|██████████| 318/318 [00:00<00:00, 1657.13it/s]
+[transformers] [1mResNetModel LOAD REPORT[0m from: microsoft/resnet-50
+Key                 | Status     |  | 
+--------------------+------------+--+-
+classifier.1.bias   | UNEXPECTED |  | 
+classifier.1.weight | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.

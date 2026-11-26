@@ -1,0 +1,281 @@
+{"tag": "LBP+colour__none__256", "condition": "gallery", "n_images": 3760, "img_per_s": 52.89}
+{"tag": "LBP+colour__none__256", "condition": "clean", "n_images": 940, "img_per_s": 62.2}
+{"tag": "LBP+colour__none__256", "condition": "low_light_s1", "n_images": 940, "img_per_s": 58.26}
+{"tag": "LBP+colour__none__256", "condition": "low_light_s2", "n_images": 940, "img_per_s": 63.71}
+{"tag": "LBP+colour__none__256", "condition": "low_light_s3", "n_images": 940, "img_per_s": 61.43}
+{"tag": "LBP+colour__none__256", "condition": "colour_temp_s1", "n_images": 940, "img_per_s": 64.53}
+{"tag": "LBP+colour__none__256", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 60.17}
+{"tag": "LBP+colour__none__256", "condition": "colour_temp_s3", "n_images": 940, "img_per_s": 62.07}
+{"tag": "LBP+colour__none__256", "condition": "rotation_s1", "n_images": 940, "img_per_s": 45.7}
+{"tag": "LBP+colour__none__256", "condition": "rotation_s2", "n_images": 940, "img_per_s": 49.95}
+{"tag": "LBP+colour__none__256", "condition": "rotation_s3", "n_images": 940, "img_per_s": 49.24}
+{"tag": "LBP+colour__none__256", "condition": "perspective_s1", "n_images": 940, "img_per_s": 49.77}
+{"tag": "LBP+colour__none__256", "condition": "perspective_s2", "n_images": 940, "img_per_s": 50.89}
+{"tag": "LBP+colour__none__256", "condition": "perspective_s3", "n_images": 940, "img_per_s": 48.96}
+{"tag": "LBP+colour__none__256", "condition": "partial_crop_s1", "n_images": 940, "img_per_s": 115.81}
+{"tag": "LBP+colour__none__256", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 111.62}
+{"tag": "LBP+colour__none__256", "condition": "partial_crop_s3", "n_images": 940, "img_per_s": 98.33}
+{"tag": "LBP+colour__none__256", "condition": "blur_s1", "n_images": 940, "img_per_s": 83.82}
+{"tag": "LBP+colour__none__256", "condition": "blur_s2", "n_images": 940, "img_per_s": 100.38}
+{"tag": "LBP+colour__none__256", "condition": "blur_s3", "n_images": 940, "img_per_s": 87.48}
+{"tag": "LBP+colour__none__256", "condition": "jpeg_s1", "n_images": 940, "img_per_s": 103.15}
+{"tag": "LBP+colour__none__256", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 107.6}
+{"tag": "LBP+colour__none__256", "condition": "jpeg_s3", "n_images": 940, "img_per_s": 112.57}
+{"tag": "LBP+colour__none__256", "condition": "downscale_s1", "n_images": 940, "img_per_s": 105.43}
+{"tag": "LBP+colour__none__256", "condition": "downscale_s2", "n_images": 940, "img_per_s": 102.16}
+{"tag": "LBP+colour__none__256", "condition": "downscale_s3", "n_images": 940, "img_per_s": 108.45}
+
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 398/398 [00:00<00:00, 12919.63it/s]
+{"tag": "CLIP-B-32__fp32__224", "condition": "gallery", "n_images": 3760, "img_per_s": 25.68}
+{"tag": "CLIP-B-32__fp32__224", "condition": "clean", "n_images": 940, "img_per_s": 24.68}
+{"tag": "CLIP-B-32__fp32__224", "condition": "low_light_s1", "n_images": 940, "img_per_s": 23.6}
+{"tag": "CLIP-B-32__fp32__224", "condition": "low_light_s2", "n_images": 940, "img_per_s": 25.13}
+{"tag": "CLIP-B-32__fp32__224", "condition": "low_light_s3", "n_images": 940, "img_per_s": 25.16}
+{"tag": "CLIP-B-32__fp32__224", "condition": "colour_temp_s1", "n_images": 940, "img_per_s": 25.21}
+{"tag": "CLIP-B-32__fp32__224", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 25.5}
+{"tag": "CLIP-B-32__fp32__224", "condition": "colour_temp_s3", "n_images": 940, "img_per_s": 25.83}
+{"tag": "CLIP-B-32__fp32__224", "condition": "rotation_s1", "n_images": 940, "img_per_s": 22.42}
+{"tag": "CLIP-B-32__fp32__224", "condition": "rotation_s2", "n_images": 940, "img_per_s": 22.89}
+{"tag": "CLIP-B-32__fp32__224", "condition": "rotation_s3", "n_images": 940, "img_per_s": 22.33}
+{"tag": "CLIP-B-32__fp32__224", "condition": "perspective_s1", "n_images": 940, "img_per_s": 24.29}
+{"tag": "CLIP-B-32__fp32__224", "condition": "perspective_s2", "n_images": 940, "img_per_s": 24.03}
+{"tag": "CLIP-B-32__fp32__224", "condition": "perspective_s3", "n_images": 940, "img_per_s": 25.42}
+{"tag": "CLIP-B-32__fp32__224", "condition": "partial_crop_s1", "n_images": 940, "img_per_s": 28.0}
+{"tag": "CLIP-B-32__fp32__224", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 28.57}
+{"tag": "CLIP-B-32__fp32__224", "condition": "partial_crop_s3", "n_images": 940, "img_per_s": 29.06}
+{"tag": "CLIP-B-32__fp32__224", "condition": "blur_s1", "n_images": 940, "img_per_s": 26.34}
+{"tag": "CLIP-B-32__fp32__224", "condition": "blur_s2", "n_images": 940, "img_per_s": 27.44}
+{"tag": "CLIP-B-32__fp32__224", "condition": "blur_s3", "n_images": 940, "img_per_s": 26.6}
+{"tag": "CLIP-B-32__fp32__224", "condition": "jpeg_s1", "n_images": 940, "img_per_s": 28.31}
+{"tag": "CLIP-B-32__fp32__224", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 27.68}
+{"tag": "CLIP-B-32__fp32__224", "condition": "jpeg_s3", "n_images": 940, "img_per_s": 28.94}
+{"tag": "CLIP-B-32__fp32__224", "condition": "downscale_s1", "n_images": 940, "img_per_s": 29.03}
+{"tag": "CLIP-B-32__fp32__224", "condition": "downscale_s2", "n_images": 940, "img_per_s": 27.86}
+{"tag": "CLIP-B-32__fp32__224", "condition": "downscale_s3", "n_images": 940, "img_per_s": 27.35}
+
+Loading weights:   0%|          | 0/312 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 312/312 [00:00<00:00, 5936.36it/s]
+[transformers] MobileNetV2Model LOAD REPORT from: google/mobilenet_v2_1.0_224
+Key               | Status     |  | 
+------------------+------------+--+-
+classifier.weight | UNEXPECTED |  | 
+classifier.bias   | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+{"tag": "MobileNetV2__fp32__224", "condition": "gallery", "n_images": 3760, "img_per_s": 25.11}
+{"tag": "MobileNetV2__fp32__224", "condition": "clean", "n_images": 940, "img_per_s": 23.73}
+{"tag": "MobileNetV2__fp32__224", "condition": "low_light_s1", "n_images": 940, "img_per_s": 23.98}
+{"tag": "MobileNetV2__fp32__224", "condition": "low_light_s2", "n_images": 940, "img_per_s": 25.79}
+{"tag": "MobileNetV2__fp32__224", "condition": "low_light_s3", "n_images": 940, "img_per_s": 25.38}
+{"tag": "MobileNetV2__fp32__224", "condition": "colour_temp_s1", "n_images": 940, "img_per_s": 24.98}
+{"tag": "MobileNetV2__fp32__224", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 24.81}
+{"tag": "MobileNetV2__fp32__224", "condition": "colour_temp_s3", "n_images": 940, "img_per_s": 25.71}
+{"tag": "MobileNetV2__fp32__224", "condition": "rotation_s1", "n_images": 940, "img_per_s": 23.15}
+{"tag": "MobileNetV2__fp32__224", "condition": "rotation_s2", "n_images": 940, "img_per_s": 23.23}
+{"tag": "MobileNetV2__fp32__224", "condition": "rotation_s3", "n_images": 940, "img_per_s": 23.37}
+{"tag": "MobileNetV2__fp32__224", "condition": "perspective_s1", "n_images": 940, "img_per_s": 22.99}
+{"tag": "MobileNetV2__fp32__224", "condition": "perspective_s2", "n_images": 940, "img_per_s": 22.32}
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 17179.51it/s]
+Loading weights:   0%|          | 0/312 [00:00<?, ?it/s]Loading weights: 100%|██████████| 312/312 [00:00<00:00, 7121.18it/s]
+[transformers] [1mMobileNetV2Model LOAD REPORT[0m from: google/mobilenet_v2_1.0_224
+Key               | Status     |  | 
+------------------+------------+--+-
+classifier.bias   | UNEXPECTED |  | 
+classifier.weight | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+{"tag": "MobileNetV2__fp32__224", "condition": "perspective_s3", "n_images": 940, "img_per_s": 24.4}
+{"tag": "MobileNetV2__fp32__224", "condition": "partial_crop_s1", "n_images": 940, "img_per_s": 26.85}
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 23001.49it/s]
+Loading weights:   0%|          | 0/312 [00:00<?, ?it/s]Loading weights: 100%|██████████| 312/312 [00:00<00:00, 9062.23it/s]
+[transformers] [1mMobileNetV2Model LOAD REPORT[0m from: google/mobilenet_v2_1.0_224
+Key               | Status     |  | 
+------------------+------------+--+-
+classifier.weight | UNEXPECTED |  | 
+classifier.bias   | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+{"tag": "MobileNetV2__fp32__224", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 27.18}
+{"tag": "MobileNetV2__fp32__224", "condition": "partial_crop_s3", "n_images": 940, "img_per_s": 27.54}
+{"tag": "MobileNetV2__fp32__224", "condition": "blur_s1", "n_images": 940, "img_per_s": 26.41}
+{"tag": "MobileNetV2__fp32__224", "condition": "blur_s2", "n_images": 940, "img_per_s": 25.83}
+{"tag": "MobileNetV2__fp32__224", "condition": "blur_s3", "n_images": 940, "img_per_s": 26.05}
+{"tag": "MobileNetV2__fp32__224", "condition": "jpeg_s1", "n_images": 940, "img_per_s": 26.93}
+{"tag": "MobileNetV2__fp32__224", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 26.45}
+{"tag": "MobileNetV2__fp32__224", "condition": "jpeg_s3", "n_images": 940, "img_per_s": 26.52}
+{"tag": "MobileNetV2__fp32__224", "condition": "downscale_s1", "n_images": 940, "img_per_s": 26.85}
+{"tag": "MobileNetV2__fp32__224", "condition": "downscale_s2", "n_images": 940, "img_per_s": 26.74}
+{"tag": "MobileNetV2__fp32__224", "condition": "downscale_s3", "n_images": 940, "img_per_s": 27.05}
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 32/223 [00:00<00:00, 305.80it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 1922.30it/s]
+{"tag": "DINOv2-S-14__fp32__224", "condition": "gallery", "n_images": 3760, "img_per_s": 15.65}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "clean", "n_images": 940, "img_per_s": 15.8}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "low_light_s1", "n_images": 940, "img_per_s": 15.35}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "low_light_s2", "n_images": 940, "img_per_s": 15.5}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "low_light_s3", "n_images": 940, "img_per_s": 15.36}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "colour_temp_s1", "n_images": 940, "img_per_s": 15.57}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 15.48}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "colour_temp_s3", "n_images": 940, "img_per_s": 15.61}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "rotation_s1", "n_images": 940, "img_per_s": 14.77}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "rotation_s2", "n_images": 940, "img_per_s": 14.62}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "rotation_s3", "n_images": 940, "img_per_s": 14.57}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "perspective_s1", "n_images": 940, "img_per_s": 14.78}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "perspective_s2", "n_images": 940, "img_per_s": 14.44}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "perspective_s3", "n_images": 940, "img_per_s": 14.66}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "partial_crop_s1", "n_images": 940, "img_per_s": 15.48}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 15.66}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "partial_crop_s3", "n_images": 940, "img_per_s": 15.49}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "blur_s1", "n_images": 940, "img_per_s": 15.02}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "blur_s2", "n_images": 940, "img_per_s": 15.24}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "blur_s3", "n_images": 940, "img_per_s": 15.4}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "jpeg_s1", "n_images": 940, "img_per_s": 15.64}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 15.54}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "jpeg_s3", "n_images": 940, "img_per_s": 15.72}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "downscale_s1", "n_images": 940, "img_per_s": 15.56}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "downscale_s2", "n_images": 940, "img_per_s": 15.83}
+{"tag": "DINOv2-S-14__fp32__224", "condition": "downscale_s3", "n_images": 940, "img_per_s": 15.57}
+Loading weights:   0%|          | 0/318 [00:00<?, ?it/s]Loading weights:  55%|█████▌    | 175/318 [00:00<00:00, 1749.60it/s]Loading weights: 100%|██████████| 318/318 [00:00<00:00, 1421.50it/s]
+[transformers] [1mResNetModel LOAD REPORT[0m from: microsoft/resnet-50
+Key                 | Status     |  | 
+--------------------+------------+--+-
+classifier.1.weight | UNEXPECTED |  | 
+classifier.1.bias   | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+{"tag": "ResNet-50__fp32__224", "condition": "gallery", "n_images": 3760, "img_per_s": 14.21}
+{"tag": "ResNet-50__fp32__224", "condition": "clean", "n_images": 940, "img_per_s": 14.28}
+{"tag": "ResNet-50__fp32__224", "condition": "low_light_s1", "n_images": 940, "img_per_s": 14.8}
+{"tag": "ResNet-50__fp32__224", "condition": "low_light_s2", "n_images": 940, "img_per_s": 15.49}
+{"tag": "ResNet-50__fp32__224", "condition": "low_light_s3", "n_images": 940, "img_per_s": 14.6}
+{"tag": "ResNet-50__fp32__224", "condition": "colour_temp_s1", "n_images": 940, "img_per_s": 14.12}
+{"tag": "ResNet-50__fp32__224", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 14.16}
+{"tag": "ResNet-50__fp32__224", "condition": "colour_temp_s3", "n_images": 940, "img_per_s": 14.35}
+{"tag": "ResNet-50__fp32__224", "condition": "rotation_s1", "n_images": 940, "img_per_s": 13.3}
+{"tag": "ResNet-50__fp32__224", "condition": "rotation_s2", "n_images": 940, "img_per_s": 15.79}
+{"tag": "ResNet-50__fp32__224", "condition": "rotation_s3", "n_images": 940, "img_per_s": 17.31}
+{"tag": "ResNet-50__fp32__224", "condition": "perspective_s1", "n_images": 940, "img_per_s": 17.81}
+{"tag": "ResNet-50__fp32__224", "condition": "perspective_s2", "n_images": 940, "img_per_s": 24.43}
+{"tag": "ResNet-50__fp32__224", "condition": "perspective_s3", "n_images": 940, "img_per_s": 25.31}
+{"tag": "ResNet-50__fp32__224", "condition": "partial_crop_s1", "n_images": 940, "img_per_s": 27.57}
+{"tag": "ResNet-50__fp32__224", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 27.81}
+{"tag": "ResNet-50__fp32__224", "condition": "partial_crop_s3", "n_images": 940, "img_per_s": 27.67}
+{"tag": "ResNet-50__fp32__224", "condition": "blur_s1", "n_images": 940, "img_per_s": 26.99}
+{"tag": "ResNet-50__fp32__224", "condition": "blur_s2", "n_images": 940, "img_per_s": 26.72}
+{"tag": "ResNet-50__fp32__224", "condition": "blur_s3", "n_images": 940, "img_per_s": 26.72}
+{"tag": "ResNet-50__fp32__224", "condition": "jpeg_s1", "n_images": 940, "img_per_s": 27.67}
+{"tag": "ResNet-50__fp32__224", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 27.9}
+{"tag": "ResNet-50__fp32__224", "condition": "jpeg_s3", "n_images": 940, "img_per_s": 27.86}
+{"tag": "ResNet-50__fp32__224", "condition": "downscale_s1", "n_images": 940, "img_per_s": 26.72}
+{"tag": "ResNet-50__fp32__224", "condition": "downscale_s2", "n_images": 940, "img_per_s": 27.56}
+{"tag": "ResNet-50__fp32__224", "condition": "downscale_s3", "n_images": 940, "img_per_s": 28.02}
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 31619.15it/s]
+{"tag": "CLIP-B-16__fp32__224", "condition": "gallery", "n_images": 3760, "img_per_s": 2.07}
+{"tag": "CLIP-B-16__fp32__224", "condition": "clean", "n_images": 940, "img_per_s": 12.53}
+{"tag": "CLIP-B-16__fp32__224", "condition": "low_light_s1", "n_images": 940, "img_per_s": 12.41}
+{"tag": "CLIP-B-16__fp32__224", "condition": "low_light_s2", "n_images": 940, "img_per_s": 12.4}
+{"tag": "CLIP-B-16__fp32__224", "condition": "low_light_s3", "n_images": 940, "img_per_s": 9.55}
+{"tag": "CLIP-B-16__fp32__224", "condition": "colour_temp_s1", "n_images": 940, "img_per_s": 8.72}
+{"tag": "CLIP-B-16__fp32__224", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 8.01}
+{"tag": "CLIP-B-16__fp32__224", "condition": "colour_temp_s3", "n_images": 940, "img_per_s": 6.5}
+{"tag": "CLIP-B-16__fp32__224", "condition": "rotation_s1", "n_images": 940, "img_per_s": 6.31}
+{"tag": "CLIP-B-16__fp32__224", "condition": "rotation_s2", "n_images": 940, "img_per_s": 6.36}
+{"tag": "CLIP-B-16__fp32__224", "condition": "rotation_s3", "n_images": 940, "img_per_s": 5.93}
+{"tag": "CLIP-B-16__fp32__224", "condition": "perspective_s1", "n_images": 940, "img_per_s": 5.43}
+{"tag": "CLIP-B-16__fp32__224", "condition": "perspective_s2", "n_images": 940, "img_per_s": 5.48}
+{"tag": "CLIP-B-16__fp32__224", "condition": "perspective_s3", "n_images": 940, "img_per_s": 5.85}
+{"tag": "CLIP-B-16__fp32__224", "condition": "partial_crop_s1", "n_images": 940, "img_per_s": 6.41}
+{"tag": "CLIP-B-16__fp32__224", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 6.27}
+{"tag": "CLIP-B-16__fp32__224", "condition": "partial_crop_s3", "n_images": 940, "img_per_s": 5.35}
+{"tag": "CLIP-B-16__fp32__224", "condition": "blur_s1", "n_images": 940, "img_per_s": 5.16}
+{"tag": "CLIP-B-16__fp32__224", "condition": "blur_s2", "n_images": 940, "img_per_s": 5.29}
+{"tag": "CLIP-B-16__fp32__224", "condition": "blur_s3", "n_images": 940, "img_per_s": 4.96}
+{"tag": "CLIP-B-16__fp32__224", "condition": "jpeg_s1", "n_images": 940, "img_per_s": 4.94}
+{"tag": "CLIP-B-16__fp32__224", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 4.7}
+{"tag": "CLIP-B-16__fp32__224", "condition": "jpeg_s3", "n_images": 940, "img_per_s": 4.74}
+{"tag": "CLIP-B-16__fp32__224", "condition": "downscale_s1", "n_images": 940, "img_per_s": 4.6}
+{"tag": "CLIP-B-16__fp32__224", "condition": "downscale_s2", "n_images": 940, "img_per_s": 4.52}
+{"tag": "CLIP-B-16__fp32__224", "condition": "downscale_s3", "n_images": 940, "img_per_s": 4.82}
+[transformers] Model config: bos_token_id must be `None` or an integer within the vocabulary (between 0 and 31999), got 49406. This may result in unexpected behavior.
+[transformers] Model config: eos_token_id must be `None` or an integer within the vocabulary (between 0 and 31999), got 49407. This may result in unexpected behavior.
+Loading weights:   0%|          | 0/408 [00:00<?, ?it/s]Loading weights:   2%|▏         | 8/408 [00:00<00:05, 67.31it/s]Loading weights:   5%|▍         | 19/408 [00:00<00:04, 80.72it/s]Loading weights:   7%|▋         | 28/408 [00:00<00:06, 61.86it/s]Loading weights:   9%|▊         | 35/408 [00:00<00:07, 50.61it/s]Loading weights:  10%|█         | 41/408 [00:00<00:07, 47.45it/s]Loading weights:  14%|█▎        | 56/408 [00:00<00:05, 66.67it/s]Loading weights:  16%|█▌        | 66/408 [00:01<00:04, 68.74it/s]Loading weights:  18%|█▊        | 74/408 [00:01<00:05, 65.49it/s]Loading weights:  20%|██        | 82/408 [00:01<00:04, 68.07it/s]Loading weights:  22%|██▏       | 89/408 [00:01<00:04, 64.88it/s]Loading weights:  24%|██▍       | 98/408 [00:01<00:04, 67.53it/s]Loading weights:  26%|██▋       | 108/408 [00:01<00:04, 72.67it/s]Loading weights: 100%|██████████| 408/408 [00:01<00:00, 238.17it/s]
+{"tag": "SigLIP-B-16__fp32__224", "condition": "gallery", "n_images": 3760, "img_per_s": 5.24}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "clean", "n_images": 940, "img_per_s": 5.26}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "low_light_s1", "n_images": 940, "img_per_s": 5.23}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "low_light_s2", "n_images": 940, "img_per_s": 5.19}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "low_light_s3", "n_images": 940, "img_per_s": 5.02}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "colour_temp_s1", "n_images": 940, "img_per_s": 5.01}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 8.24}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "colour_temp_s3", "n_images": 940, "img_per_s": 7.02}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "rotation_s1", "n_images": 940, "img_per_s": 8.42}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "rotation_s2", "n_images": 940, "img_per_s": 6.14}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "rotation_s3", "n_images": 940, "img_per_s": 4.9}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "perspective_s1", "n_images": 940, "img_per_s": 4.93}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "perspective_s2", "n_images": 940, "img_per_s": 4.91}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "perspective_s3", "n_images": 940, "img_per_s": 5.09}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "partial_crop_s1", "n_images": 940, "img_per_s": 5.33}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 5.11}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "partial_crop_s3", "n_images": 940, "img_per_s": 5.15}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "blur_s1", "n_images": 940, "img_per_s": 5.06}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "blur_s2", "n_images": 940, "img_per_s": 5.1}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "blur_s3", "n_images": 940, "img_per_s": 5.09}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "jpeg_s1", "n_images": 940, "img_per_s": 5.18}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 5.12}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "jpeg_s3", "n_images": 940, "img_per_s": 5.16}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "downscale_s1", "n_images": 940, "img_per_s": 5.1}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "downscale_s2", "n_images": 940, "img_per_s": 5.06}
+{"tag": "SigLIP-B-16__fp32__224", "condition": "downscale_s3", "n_images": 940, "img_per_s": 5.21}
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights:   4%|▍         | 9/223 [00:00<00:02, 74.76it/s]Loading weights:   8%|▊         | 17/223 [00:00<00:03, 60.95it/s]Loading weights:  11%|█         | 24/223 [00:00<00:03, 60.47it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 706.76it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 455.45it/s]
+{"tag": "DINOv2-B-14__fp32__224", "condition": "gallery", "n_images": 3760, "img_per_s": 4.48}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "clean", "n_images": 940, "img_per_s": 4.37}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "low_light_s1", "n_images": 940, "img_per_s": 4.35}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "low_light_s2", "n_images": 940, "img_per_s": 4.37}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "low_light_s3", "n_images": 940, "img_per_s": 4.41}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "colour_temp_s1", "n_images": 940, "img_per_s": 5.09}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 6.06}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "colour_temp_s3", "n_images": 940, "img_per_s": 5.92}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "rotation_s1", "n_images": 940, "img_per_s": 6.43}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "rotation_s2", "n_images": 940, "img_per_s": 6.42}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "rotation_s3", "n_images": 940, "img_per_s": 6.76}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "perspective_s1", "n_images": 940, "img_per_s": 6.83}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "perspective_s2", "n_images": 940, "img_per_s": 6.87}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "perspective_s3", "n_images": 940, "img_per_s": 6.95}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "partial_crop_s1", "n_images": 940, "img_per_s": 7.1}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 6.93}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "partial_crop_s3", "n_images": 940, "img_per_s": 7.25}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "blur_s1", "n_images": 940, "img_per_s": 7.0}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "blur_s2", "n_images": 940, "img_per_s": 7.25}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "blur_s3", "n_images": 940, "img_per_s": 7.18}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "jpeg_s1", "n_images": 940, "img_per_s": 7.47}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 7.45}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "jpeg_s3", "n_images": 940, "img_per_s": 6.69}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "downscale_s1", "n_images": 940, "img_per_s": 6.29}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "downscale_s2", "n_images": 940, "img_per_s": 6.44}
+{"tag": "DINOv2-B-14__fp32__224", "condition": "downscale_s3", "n_images": 940, "img_per_s": 6.56}
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 15054.36it/s]
+Loading weights:   0%|          | 0/312 [00:00<?, ?it/s]Loading weights: 100%|██████████| 312/312 [00:00<00:00, 5127.61it/s]
+[transformers] [1mMobileNetV2Model LOAD REPORT[0m from: google/mobilenet_v2_1.0_224
+Key               | Status     |  | 
+------------------+------------+--+-
+classifier.weight | UNEXPECTED |  | 
+classifier.bias   | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 41/223 [00:00<00:00, 404.64it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 1647.09it/s]
+Loading weights:   0%|          | 0/318 [00:00<?, ?it/s]Loading weights:  12%|█▏        | 39/318 [00:00<00:00, 389.00it/s]Loading weights: 100%|██████████| 318/318 [00:00<00:00, 2781.12it/s]
+[transformers] [1mResNetModel LOAD REPORT[0m from: microsoft/resnet-50
+Key                 | Status     |  | 
+--------------------+------------+--+-
+classifier.1.weight | UNEXPECTED |  | 
+classifier.1.bias   | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 15265.12it/s]
+Loading weights:   0%|          | 0/408 [00:00<?, ?it/s]Loading weights:   4%|▎         | 15/408 [00:00<00:02, 147.74it/s]Loading weights:   8%|▊         | 31/408 [00:00<00:02, 154.88it/s]Loading weights:  12%|█▏        | 47/408 [00:00<00:03, 113.94it/s]Loading weights:  15%|█▌        | 63/408 [00:00<00:02, 128.31it/s]Loading weights:  19%|█▉        | 77/408 [00:00<00:02, 110.61it/s]Loading weights:  22%|██▏       | 89/408 [00:00<00:02, 111.36it/s]Loading weights:  25%|██▍       | 101/408 [00:00<00:02, 113.62it/s]Loading weights:  28%|██▊       | 115/408 [00:00<00:02, 114.87it/s]Loading weights:  32%|███▏      | 129/408 [00:01<00:02, 115.36it/s]Loading weights: 100%|██████████| 408/408 [00:01<00:00, 366.59it/s]
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights:   9%|▉         | 20/223 [00:00<00:01, 192.27it/s]Loading weights:  23%|██▎       | 51/223 [00:00<00:00, 254.69it/s]Loading weights:  35%|███▍      | 77/223 [00:00<00:00, 215.10it/s]Loading weights:  46%|████▌     | 102/223 [00:00<00:00, 215.65it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 413.85it/s]
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 17024.98it/s]

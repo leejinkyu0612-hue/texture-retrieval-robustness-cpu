@@ -1,0 +1,33 @@
+{"tag": "LBP+colour__none__256", "condition": "all", "n_images": 4752, "img_per_s": 30.16}
+Loading weights:   0%|          | 0/312 [00:00<?, ?it/s]Loading weights: 100%|██████████| 312/312 [00:00<00:00, 7896.49it/s]
+[transformers] [1mMobileNetV2Model LOAD REPORT[0m from: google/mobilenet_v2_1.0_224
+Key               | Status     |  | 
+------------------+------------+--+-
+classifier.weight | UNEXPECTED |  | 
+classifier.bias   | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+{"tag": "MobileNetV2__fp32__224", "condition": "all", "n_images": 4752, "img_per_s": 15.72}
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 15892.51it/s]
+{"tag": "CLIP-B-32__fp32__224", "condition": "all", "n_images": 4752, "img_per_s": 17.25}
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights:  25%|██▍       | 55/223 [00:00<00:00, 505.73it/s]Loading weights:  48%|████▊     | 106/223 [00:00<00:00, 491.96it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 1010.96it/s]
+{"tag": "DINOv2-S-14__fp32__224", "condition": "all", "n_images": 4752, "img_per_s": 10.01}
+Loading weights:   0%|          | 0/318 [00:00<?, ?it/s]Loading weights:  15%|█▌        | 49/318 [00:00<00:00, 472.88it/s]Loading weights:  31%|███       | 97/318 [00:00<00:00, 462.40it/s]Loading weights: 100%|██████████| 318/318 [00:00<00:00, 1431.78it/s]
+[transformers] [1mResNetModel LOAD REPORT[0m from: microsoft/resnet-50
+Key                 | Status     |  | 
+--------------------+------------+--+-
+classifier.1.weight | UNEXPECTED |  | 
+classifier.1.bias   | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+{"tag": "ResNet-50__fp32__224", "condition": "all", "n_images": 4752, "img_per_s": 7.92}
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 10346.42it/s]
+{"tag": "CLIP-B-16__fp32__224", "condition": "all", "n_images": 4752, "img_per_s": 4.93}
+[transformers] Model config: bos_token_id must be `None` or an integer within the vocabulary (between 0 and 31999), got 49406. This may result in unexpected behavior.
+[transformers] Model config: eos_token_id must be `None` or an integer within the vocabulary (between 0 and 31999), got 49407. This may result in unexpected behavior.
+Loading weights:   0%|          | 0/408 [00:00<?, ?it/s]Loading weights:   1%|▏         | 6/408 [00:00<00:08, 47.53it/s]Loading weights:   3%|▎         | 11/408 [00:00<00:11, 33.80it/s]Loading weights:   4%|▍         | 16/408 [00:00<00:11, 33.39it/s]Loading weights:   5%|▍         | 20/408 [00:00<00:11, 32.55it/s]Loading weights:   6%|▌         | 25/408 [00:00<00:10, 37.37it/s]Loading weights:   7%|▋         | 29/408 [00:00<00:10, 35.42it/s]Loading weights:   9%|▉         | 36/408 [00:00<00:09, 39.06it/s]Loading weights:  10%|█         | 41/408 [00:01<00:08, 41.52it/s]Loading weights:  12%|█▏        | 47/408 [00:01<00:07, 46.31it/s]Loading weights:  13%|█▎        | 52/408 [00:01<00:08, 44.34it/s]Loading weights:  14%|█▍        | 57/408 [00:01<00:08, 41.94it/s]Loading weights: 100%|██████████| 408/408 [00:01<00:00, 275.59it/s]
+{"tag": "SigLIP-B-16__fp32__224", "condition": "all", "n_images": 4752, "img_per_s": 5.73}
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights:   9%|▉         | 21/223 [00:00<00:00, 208.64it/s]Loading weights:  19%|█▉        | 42/223 [00:00<00:00, 183.03it/s]Loading weights:  27%|██▋       | 61/223 [00:00<00:00, 173.12it/s]Loading weights:  35%|███▌      | 79/223 [00:00<00:00, 153.63it/s]Loading weights:  43%|████▎     | 95/223 [00:00<00:00, 139.77it/s]Loading weights:  50%|█████     | 112/223 [00:00<00:00, 143.90it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 270.00it/s]
+{"tag": "DINOv2-B-14__fp32__224", "condition": "all", "n_images": 4752, "img_per_s": 5.28}

@@ -1,0 +1,419 @@
+{
+ "H1a_all_true": true,
+ "H1a_detail": {
+  "CLIP-B/32": {
+   "low_light": true,
+   "colour_temp": true,
+   "rotation": true,
+   "perspective": true,
+   "partial_crop": true,
+   "blur": true,
+   "jpeg": true,
+   "downscale": true
+  },
+  "CLIP-B/16": {
+   "low_light": true,
+   "colour_temp": true,
+   "rotation": true,
+   "perspective": true,
+   "partial_crop": true,
+   "blur": true,
+   "jpeg": true,
+   "downscale": true
+  },
+  "SigLIP-B/16": {
+   "low_light": true,
+   "colour_temp": true,
+   "rotation": true,
+   "perspective": true,
+   "partial_crop": true,
+   "blur": true,
+   "jpeg": true,
+   "downscale": true
+  },
+  "DINOv2-S/14": {
+   "low_light": true,
+   "colour_temp": true,
+   "rotation": true,
+   "perspective": true,
+   "partial_crop": true,
+   "blur": true,
+   "jpeg": true,
+   "downscale": true
+  },
+  "DINOv2-B/14": {
+   "low_light": true,
+   "colour_temp": true,
+   "rotation": true,
+   "perspective": true,
+   "partial_crop": true,
+   "blur": true,
+   "jpeg": true,
+   "downscale": true
+  },
+  "ResNet-50": {
+   "low_light": true,
+   "colour_temp": true,
+   "rotation": true,
+   "perspective": true,
+   "partial_crop": true,
+   "blur": true,
+   "jpeg": true,
+   "downscale": true
+  },
+  "MobileNetV2": {
+   "low_light": true,
+   "colour_temp": true,
+   "rotation": true,
+   "perspective": true,
+   "partial_crop": true,
+   "blur": true,
+   "jpeg": true,
+   "downscale": true
+  },
+  "LBP+colour": {
+   "low_light": true,
+   "colour_temp": true,
+   "rotation": true,
+   "perspective": true,
+   "partial_crop": true,
+   "blur": true,
+   "jpeg": true,
+   "downscale": true
+  }
+ },
+ "H1b_share_monotone": 1.0,
+ "H1b_detail": {
+  "CLIP-B/32|low_light": [
+   0.0515,
+   0.1072,
+   0.1831
+  ],
+  "CLIP-B/32|colour_temp": [
+   0.0279,
+   0.047,
+   0.064
+  ],
+  "CLIP-B/32|rotation": [
+   0.028,
+   0.0441,
+   0.0529
+  ],
+  "CLIP-B/32|perspective": [
+   0.0075,
+   0.0189,
+   0.0389
+  ],
+  "CLIP-B/32|partial_crop": [
+   0.0306,
+   0.0689,
+   0.1419
+  ],
+  "CLIP-B/32|blur": [
+   0.0758,
+   0.185,
+   0.2419
+  ],
+  "CLIP-B/32|jpeg": [
+   0.0163,
+   0.0567,
+   0.1936
+  ],
+  "CLIP-B/32|downscale": [
+   0.0481,
+   0.1306,
+   0.2222
+  ],
+  "CLIP-B/16|low_light": [
+   0.0491,
+   0.1123,
+   0.1949
+  ],
+  "CLIP-B/16|colour_temp": [
+   0.0242,
+   0.041,
+   0.0567
+  ],
+  "CLIP-B/16|rotation": [
+   0.0299,
+   0.0406,
+   0.05
+  ],
+  "CLIP-B/16|perspective": [
+   0.0093,
+   0.0225,
+   0.0459
+  ],
+  "CLIP-B/16|partial_crop": [
+   0.0318,
+   0.0674,
+   0.1531
+  ],
+  "CLIP-B/16|blur": [
+   0.0847,
+   0.2025,
+   0.2616
+  ],
+  "CLIP-B/16|jpeg": [
+   0.0275,
+   0.0679,
+   0.2213
+  ],
+  "CLIP-B/16|downscale": [
+   0.0557,
+   0.1476,
+   0.2399
+  ],
+  "SigLIP-B/16|low_light": [
+   0.0308,
+   0.0726,
+   0.1526
+  ],
+  "SigLIP-B/16|colour_temp": [
+   0.0123,
+   0.0268,
+   0.0409
+  ],
+  "SigLIP-B/16|rotation": [
+   0.0197,
+   0.0317,
+   0.0437
+  ],
+  "SigLIP-B/16|perspective": [
+   0.0081,
+   0.0121,
+   0.0225
+  ],
+  "SigLIP-B/16|partial_crop": [
+   0.0192,
+   0.0536,
+   0.147
+  ],
+  "SigLIP-B/16|blur": [
+   0.0746,
+   0.1982,
+   0.3003
+  ],
+  "SigLIP-B/16|jpeg": [
+   0.0091,
+   0.0582,
+   0.2422
+  ],
+  "SigLIP-B/16|downscale": [
+   0.0475,
+   0.1461,
+   0.2851
+  ],
+  "DINOv2-S/14|low_light": [
+   0.0023,
+   0.0113,
+   0.0323
+  ],
+  "DINOv2-S/14|colour_temp": [
+   0.0032,
+   0.007,
+   0.0107
+  ],
+  "DINOv2-S/14|rotation": [
+   -0.0007,
+   0.0076,
+   0.02
+  ],
+  "DINOv2-S/14|perspective": [
+   0.0004,
+   0.0015,
+   0.0086
+  ],
+  "DINOv2-S/14|partial_crop": [
+   0.0049,
+   0.0139,
+   0.0585
+  ],
+  "DINOv2-S/14|blur": [
+   0.0153,
+   0.0794,
+   0.2121
+  ],
+  "DINOv2-S/14|jpeg": [
+   0.0123,
+   0.0276,
+   0.1431
+  ],
+  "DINOv2-S/14|downscale": [
+   0.0173,
+   0.0726,
+   0.184
+  ],
+  "DINOv2-B/14|low_light": [
+   0.0022,
+   0.0093,
+   0.0233
+  ],
+  "DINOv2-B/14|colour_temp": [
+   0.0045,
+   0.0075,
+   0.0095
+  ],
+  "DINOv2-B/14|rotation": [
+   0.0002,
+   0.0087,
+   0.0143
+  ],
+  "DINOv2-B/14|perspective": [
+   -0.001,
+   0.0026,
+   0.015
+  ],
+  "DINOv2-B/14|partial_crop": [
+   0.0015,
+   0.0067,
+   0.0396
+  ],
+  "DINOv2-B/14|blur": [
+   0.0191,
+   0.0829,
+   0.2184
+  ],
+  "DINOv2-B/14|jpeg": [
+   0.0093,
+   0.0178,
+   0.1063
+  ],
+  "DINOv2-B/14|downscale": [
+   0.0162,
+   0.0584,
+   0.1697
+  ],
+  "ResNet-50|low_light": [
+   0.0011,
+   0.0023,
+   0.009
+  ],
+  "ResNet-50|colour_temp": [
+   0.0073,
+   0.0139,
+   0.0221
+  ],
+  "ResNet-50|rotation": [
+   0.0039,
+   0.0154,
+   0.024
+  ],
+  "ResNet-50|perspective": [
+   -0.0013,
+   0.0005,
+   0.0086
+  ],
+  "ResNet-50|partial_crop": [
+   0.012,
+   0.0378,
+   0.104
+  ],
+  "ResNet-50|blur": [
+   0.0426,
+   0.1105,
+   0.189
+  ],
+  "ResNet-50|jpeg": [
+   0.0227,
+   0.0453,
+   0.1357
+  ],
+  "ResNet-50|downscale": [
+   0.03,
+   0.0929,
+   0.1745
+  ],
+  "MobileNetV2|low_light": [
+   0.0184,
+   0.0442,
+   0.0828
+  ],
+  "MobileNetV2|colour_temp": [
+   0.004,
+   0.0091,
+   0.0137
+  ],
+  "MobileNetV2|rotation": [
+   0.0152,
+   0.0275,
+   0.0368
+  ],
+  "MobileNetV2|perspective": [
+   0.0032,
+   0.0071,
+   0.016
+  ],
+  "MobileNetV2|partial_crop": [
+   0.0218,
+   0.0586,
+   0.1186
+  ],
+  "MobileNetV2|blur": [
+   0.0424,
+   0.1076,
+   0.1677
+  ],
+  "MobileNetV2|jpeg": [
+   0.0302,
+   0.0609,
+   0.1356
+  ],
+  "MobileNetV2|downscale": [
+   0.0307,
+   0.0816,
+   0.1429
+  ],
+  "LBP+colour|low_light": [
+   0.0186,
+   0.0205,
+   0.0214
+  ],
+  "LBP+colour|colour_temp": [
+   0.0078,
+   0.0152,
+   0.0183
+  ],
+  "LBP+colour|rotation": [
+   0.0022,
+   0.0041,
+   0.0052
+  ],
+  "LBP+colour|perspective": [
+   0.0004,
+   0.0009,
+   0.0019
+  ],
+  "LBP+colour|partial_crop": [
+   0.0014,
+   0.0037,
+   0.005
+  ],
+  "LBP+colour|blur": [
+   0.005,
+   0.0077,
+   0.0101
+  ],
+  "LBP+colour|jpeg": [
+   0.0001,
+   0.0018,
+   0.0082
+  ],
+  "LBP+colour|downscale": [
+   0.004,
+   0.0065,
+   0.009
+  ]
+ },
+ "mean_drop_s3_over_models": {
+  "low_light": 0.08742913057600357,
+  "colour_temp": 0.02948280870963916,
+  "rotation": 0.03085295249306491,
+  "perspective": 0.01967638065636152,
+  "partial_crop": 0.0959529744830705,
+  "blur": 0.20013453044787782,
+  "jpeg": 0.1482373339018647,
+  "downscale": 0.17840622055044458
+ },
+ "H1c": true
+}
