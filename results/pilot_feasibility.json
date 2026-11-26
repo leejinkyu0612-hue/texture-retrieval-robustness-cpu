@@ -1,0 +1,56 @@
+{
+ "CLIP-B/32": {
+  "prep_mean_abs_diff_vs_hf": 0.0033,
+  "fp32_224_img_per_s": 37.7,
+  "dim": 512,
+  "fp32_160_img_per_s": 59.4,
+  "fp32_112_img_per_s": 91.6,
+  "int8_224_img_per_s": 44.8
+ },
+ "CLIP-B/16": {
+  "prep_mean_abs_diff_vs_hf": 0.0033,
+  "fp32_224_img_per_s": 8.0,
+  "dim": 512,
+  "fp32_160_img_per_s": 14.9,
+  "fp32_112_img_per_s": 29.1,
+  "int8_224_img_per_s": 11.9
+ },
+ "SigLIP-B/16": {
+  "prep_mean_abs_diff_vs_hf": 0.0018,
+  "fp32_224_img_per_s": 8.5,
+  "dim": 768,
+  "fp32_160_img_per_s": 15.6,
+  "fp32_112_img_per_s": 30.2,
+  "int8_224_img_per_s": 11.2
+ },
+ "DINOv2-S/14": {
+  "prep_mean_abs_diff_vs_hf": 0.0,
+  "fp32_224_img_per_s": 20.6,
+  "dim": 384,
+  "fp32_160_img_per_s": 37.9,
+  "fp32_112_img_per_s": 70.1,
+  "int8_224_img_per_s": 20.5
+ },
+ "DINOv2-B/14": {
+  "prep_mean_abs_diff_vs_hf": 0.0,
+  "fp32_224_img_per_s": 7.2,
+  "dim": 768,
+  "fp32_160_img_per_s": 16.1,
+  "fp32_112_img_per_s": 22.3,
+  "int8_224_img_per_s": 10.6
+ },
+ "ResNet-50": {
+  "prep_mean_abs_diff_vs_hf": 0.0,
+  "fp32_224_img_per_s": 16.3,
+  "dim": 2048,
+  "fp32_160_img_per_s": 26.2,
+  "fp32_112_img_per_s": 38.5
+ },
+ "MobileNetV2": {
+  "prep_mean_abs_diff_vs_hf": 0.0,
+  "fp32_224_img_per_s": 26.5,
+  "dim": 1280,
+  "fp32_160_img_per_s": 46.1,
+  "fp32_112_img_per_s": 37.2
+ }
+}

@@ -1,0 +1,9 @@
+data_raw/
+runs/
+__pycache__/
+*.npy
+*.npz
+*.tar
+*.tar.gz
+dl.py
+*.log
