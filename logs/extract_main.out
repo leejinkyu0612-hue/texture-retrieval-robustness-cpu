@@ -279,3 +279,93 @@ Notes:
 Loading weights:   0%|          | 0/408 [00:00<?, ?it/s]Loading weights:   4%|▎         | 15/408 [00:00<00:02, 147.74it/s]Loading weights:   8%|▊         | 31/408 [00:00<00:02, 154.88it/s]Loading weights:  12%|█▏        | 47/408 [00:00<00:03, 113.94it/s]Loading weights:  15%|█▌        | 63/408 [00:00<00:02, 128.31it/s]Loading weights:  19%|█▉        | 77/408 [00:00<00:02, 110.61it/s]Loading weights:  22%|██▏       | 89/408 [00:00<00:02, 111.36it/s]Loading weights:  25%|██▍       | 101/408 [00:00<00:02, 113.62it/s]Loading weights:  28%|██▊       | 115/408 [00:00<00:02, 114.87it/s]Loading weights:  32%|███▏      | 129/408 [00:01<00:02, 115.36it/s]Loading weights: 100%|██████████| 408/408 [00:01<00:00, 366.59it/s]
 Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights:   9%|▉         | 20/223 [00:00<00:01, 192.27it/s]Loading weights:  23%|██▎       | 51/223 [00:00<00:00, 254.69it/s]Loading weights:  35%|███▍      | 77/223 [00:00<00:00, 215.10it/s]Loading weights:  46%|████▌     | 102/223 [00:00<00:00, 215.65it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 413.85it/s]
 Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 17024.98it/s]
+{"tag": "CLIP-B-32__int8__224", "condition": "gallery", "n_images": 3760, "img_per_s": 27.36}
+{"tag": "CLIP-B-32__int8__224", "condition": "clean", "n_images": 940, "img_per_s": 25.85}
+{"tag": "CLIP-B-32__int8__224", "condition": "low_light_s2", "n_images": 940, "img_per_s": 27.27}
+{"tag": "CLIP-B-32__int8__224", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 26.61}
+{"tag": "CLIP-B-32__int8__224", "condition": "rotation_s2", "n_images": 940, "img_per_s": 24.05}
+{"tag": "CLIP-B-32__int8__224", "condition": "perspective_s2", "n_images": 940, "img_per_s": 23.78}
+{"tag": "CLIP-B-32__int8__224", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 27.75}
+{"tag": "CLIP-B-32__int8__224", "condition": "blur_s2", "n_images": 940, "img_per_s": 24.23}
+{"tag": "CLIP-B-32__int8__224", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 23.1}
+{"tag": "CLIP-B-32__int8__224", "condition": "downscale_s2", "n_images": 940, "img_per_s": 23.3}
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 4671.98it/s]
+{"tag": "DINOv2-S-14__int8__224", "condition": "gallery", "n_images": 3760, "img_per_s": 18.21}
+{"tag": "DINOv2-S-14__int8__224", "condition": "clean", "n_images": 940, "img_per_s": 18.56}
+{"tag": "DINOv2-S-14__int8__224", "condition": "low_light_s2", "n_images": 940, "img_per_s": 18.25}
+{"tag": "DINOv2-S-14__int8__224", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 17.86}
+{"tag": "DINOv2-S-14__int8__224", "condition": "rotation_s2", "n_images": 940, "img_per_s": 16.86}
+{"tag": "DINOv2-S-14__int8__224", "condition": "perspective_s2", "n_images": 940, "img_per_s": 16.65}
+{"tag": "DINOv2-S-14__int8__224", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 18.68}
+{"tag": "DINOv2-S-14__int8__224", "condition": "blur_s2", "n_images": 940, "img_per_s": 15.71}
+{"tag": "DINOv2-S-14__int8__224", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 8.52}
+{"tag": "DINOv2-S-14__int8__224", "condition": "downscale_s2", "n_images": 940, "img_per_s": 8.03}
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 14866.80it/s]
+{"tag": "CLIP-B-16__int8__224", "condition": "gallery", "n_images": 3760, "img_per_s": 5.88}
+{"tag": "CLIP-B-16__int8__224", "condition": "clean", "n_images": 940, "img_per_s": 6.25}
+{"tag": "CLIP-B-16__int8__224", "condition": "low_light_s2", "n_images": 940, "img_per_s": 6.41}
+{"tag": "CLIP-B-16__int8__224", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 6.22}
+{"tag": "CLIP-B-16__int8__224", "condition": "rotation_s2", "n_images": 940, "img_per_s": 6.29}
+{"tag": "CLIP-B-16__int8__224", "condition": "perspective_s2", "n_images": 940, "img_per_s": 6.01}
+{"tag": "CLIP-B-16__int8__224", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 6.37}
+{"tag": "CLIP-B-16__int8__224", "condition": "blur_s2", "n_images": 940, "img_per_s": 6.15}
+{"tag": "CLIP-B-16__int8__224", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 6.32}
+{"tag": "CLIP-B-16__int8__224", "condition": "downscale_s2", "n_images": 940, "img_per_s": 6.76}
+Loading weights:   0%|          | 0/408 [00:00<?, ?it/s]Loading weights:   3%|▎         | 13/408 [00:00<00:03, 105.82it/s]Loading weights:   7%|▋         | 29/408 [00:00<00:02, 130.69it/s]Loading weights:  11%|█         | 44/408 [00:00<00:02, 127.29it/s]Loading weights:  14%|█▍        | 57/408 [00:00<00:03, 97.17it/s] Loading weights: 100%|██████████| 408/408 [00:00<00:00, 683.37it/s]
+{"tag": "SigLIP-B-16__int8__224", "condition": "gallery", "n_images": 3760, "img_per_s": 10.38}
+{"tag": "SigLIP-B-16__int8__224", "condition": "clean", "n_images": 940, "img_per_s": 13.41}
+{"tag": "SigLIP-B-16__int8__224", "condition": "low_light_s2", "n_images": 940, "img_per_s": 12.81}
+{"tag": "SigLIP-B-16__int8__224", "condition": "colour_temp_s2", "n_images": 940, "img_per_s": 20.17}
+{"tag": "SigLIP-B-16__int8__224", "condition": "rotation_s2", "n_images": 940, "img_per_s": 18.72}
+{"tag": "SigLIP-B-16__int8__224", "condition": "perspective_s2", "n_images": 940, "img_per_s": 18.73}
+{"tag": "SigLIP-B-16__int8__224", "condition": "partial_crop_s2", "n_images": 940, "img_per_s": 20.21}
+{"tag": "SigLIP-B-16__int8__224", "condition": "blur_s2", "n_images": 940, "img_per_s": 20.05}
+{"tag": "SigLIP-B-16__int8__224", "condition": "jpeg_s2", "n_images": 940, "img_per_s": 20.63}
+{"tag": "SigLIP-B-16__int8__224", "condition": "downscale_s2", "n_images": 940, "img_per_s": 20.75}
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights:  48%|████▊     | 108/223 [00:00<00:00, 1079.74it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 2181.86it/s]
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 25752.17it/s]
+Loading weights:   0%|          | 0/312 [00:00<?, ?it/s]Loading weights: 100%|██████████| 312/312 [00:00<00:00, 12369.77it/s]
+[transformers] [1mMobileNetV2Model LOAD REPORT[0m from: google/mobilenet_v2_1.0_224
+Key               | Status     |  | 
+------------------+------------+--+-
+classifier.weight | UNEXPECTED |  | 
+classifier.bias   | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 3094.68it/s]
+Loading weights:   0%|          | 0/318 [00:00<?, ?it/s]Loading weights: 100%|██████████| 318/318 [00:00<00:00, 3533.55it/s]
+[transformers] [1mResNetModel LOAD REPORT[0m from: microsoft/resnet-50
+Key                 | Status     |  | 
+--------------------+------------+--+-
+classifier.1.weight | UNEXPECTED |  | 
+classifier.1.bias   | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 30927.89it/s]
+Loading weights:   0%|          | 0/408 [00:00<?, ?it/s]Loading weights:  11%|█         | 43/408 [00:00<00:00, 378.37it/s]Loading weights:  20%|█▉        | 81/408 [00:00<00:00, 338.87it/s]Loading weights:  28%|██▊       | 115/408 [00:00<00:01, 287.59it/s]Loading weights:  36%|███▌      | 145/408 [00:00<00:01, 258.25it/s]Loading weights: 100%|██████████| 408/408 [00:00<00:00, 750.16it/s]
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 38/223 [00:00<00:00, 372.20it/s]Loading weights:  34%|███▍      | 76/223 [00:00<00:00, 290.15it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 865.34it/s]
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 27274.45it/s]
+Loading weights:   0%|          | 0/312 [00:00<?, ?it/s]Loading weights: 100%|██████████| 312/312 [00:00<00:00, 13132.72it/s]
+[transformers] [1mMobileNetV2Model LOAD REPORT[0m from: google/mobilenet_v2_1.0_224
+Key               | Status     |  | 
+------------------+------------+--+-
+classifier.weight | UNEXPECTED |  | 
+classifier.bias   | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 2944.49it/s]
+Loading weights:   0%|          | 0/318 [00:00<?, ?it/s]Loading weights: 100%|██████████| 318/318 [00:00<00:00, 3223.26it/s]
+[transformers] [1mResNetModel LOAD REPORT[0m from: microsoft/resnet-50
+Key                 | Status     |  | 
+--------------------+------------+--+-
+classifier.1.weight | UNEXPECTED |  | 
+classifier.1.bias   | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 28821.85it/s]
+Loading weights:   0%|          | 0/408 [00:00<?, ?it/s]Loading weights:   9%|▊         | 35/408 [00:00<00:01, 346.59it/s]Loading weights:  17%|█▋        | 70/408 [00:00<00:01, 292.24it/s]Loading weights:  27%|██▋       | 110/408 [00:00<00:00, 331.25it/s]Loading weights:  35%|███▌      | 144/408 [00:00<00:00, 308.67it/s]Loading weights:  64%|██████▍   | 262/408 [00:00<00:00, 592.51it/s]Loading weights: 100%|██████████| 408/408 [00:00<00:00, 720.07it/s]
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights:  12%|█▏        | 27/223 [00:00<00:00, 242.90it/s]Loading weights:  34%|███▍      | 76/223 [00:00<00:00, 379.47it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 793.86it/s]
