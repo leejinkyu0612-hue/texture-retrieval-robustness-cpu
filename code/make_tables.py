@@ -8,9 +8,11 @@ dtd = json.load(open(os.path.join(R, "dtd_main.json")))
 kth = json.load(open(os.path.join(R, "kth_main.json")))["reference_frontal"]
 rq3 = json.load(open(os.path.join(R, "rq3_variants.json")))
 ex = json.load(open(os.path.join(R, "rq3_decisions_and_exploratory.json")))["exploratory"]["e1_relative_robustness_sev2"]
-lat = {}
+LS = json.load(open(os.path.join(R, "latency_sessions.json")))
+lat = {tuple(k.split("|")[:2]) + (int(k.split("|")[2]), int(k.split("|")[3])): {"latency_ms_median": v["median_of_sessions"]} for k, v in LS.items()}
+PAR = {}
 for l in open(os.path.join(ROOT, "logs", "latency.jsonl"), encoding="utf-8"):
-    d = json.loads(l); lat[(d["model"], d["variant"], d["resolution"], d["threads"])] = d
+    d = json.loads(l); PAR[d["model"]] = d["params_M"]
 ORDER = ["CLIP-B/32", "CLIP-B/16", "SigLIP-B/16", "DINOv2-S/14", "DINOv2-B/14", "ResNet-50", "MobileNetV2", "LBP+colour"]
 f3 = lambda x: "%.3f" % x
 sg = lambda x: ("$+$%.3f" % x) if x >= 0.0005 else (("$-$%.3f" % -x) if x <= -0.0005 else "0.000")
@@ -25,7 +27,7 @@ main = "\n".join(rows)
 rows = []
 for m in ORDER[:-1]:
     b = lat[(m, "fp32", 224, 4)]; q = lat.get((m, "int8", 224, 4)); r1 = lat[(m, "fp32", 112, 4)]; V = rq3[m]
-    rows.append(" & ".join([m, "%.1f" % b["params_M"], "%.0f" % b["latency_ms_median"], ("%.0f" % q["latency_ms_median"]) if q else "--",
+    rows.append(" & ".join([m, "%.1f" % PAR[m], "%.0f" % b["latency_ms_median"], ("%.0f" % q["latency_ms_median"]) if q else "--",
         "%.0f" % r1["latency_ms_median"],
         sg(V["int8_224"]["delta_clean"]) if "int8_224" in V else "--",
         ("%.2f/%.2f" % (ex[m]["RR_fp32_224"], ex[m]["RR_int8_224"])) if "RR_int8_224" in ex[m] else "--",
@@ -34,3 +36,4 @@ eff = "\n".join(rows)
 open(os.path.join(R, "table_main_rows.tex"), "w", encoding="utf-8").write(main + "\n")
 open(os.path.join(R, "table_eff_rows.tex"), "w", encoding="utf-8").write(eff + "\n")
 print(main); print(); print(eff)
+

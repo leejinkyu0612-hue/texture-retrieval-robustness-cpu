@@ -1,0 +1,36 @@
+1 ('DINOv2-S/14', 'int8', 224, 4) {"model": "DINOv2-S/14", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 22.06, "state_dict_MB": 23.5, "
+1 ('MobileNetV2', 'fp32', 224, 4) {"model": "MobileNetV2", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 2.22, "state_dict_MB": 8.7, "la
+1 ('SigLIP-B/16', 'fp32', 224, 4) {"model": "SigLIP-B/16", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 92.88, "state_dict_MB": 354.4, 
+1 ('CLIP-B/16', 'fp32', 224, 4) {"model": "CLIP-B/16", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 86.19, "state_dict_MB": 328.9, "l
+1 ('DINOv2-B/14', 'fp32', 224, 4) {"model": "DINOv2-B/14", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 86.58, "state_dict_MB": 330.4, 
+1 ('DINOv2-B/14', 'int8', 224, 4) {"model": "DINOv2-B/14", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 86.58, "state_dict_MB": 87.4, "
+1 ('CLIP-B/32', 'fp32', 224, 4) {"model": "CLIP-B/32", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 87.85, "state_dict_MB": 335.2, "l
+1 ('CLIP-B/32', 'int8', 224, 4) {"model": "CLIP-B/32", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 87.85, "state_dict_MB": 91.1, "la
+1 ('ResNet-50', 'fp32', 224, 4) {"model": "ResNet-50", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 23.51, "state_dict_MB": 90.0, "la
+1 ('CLIP-B/16', 'int8', 224, 4) {"model": "CLIP-B/16", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 86.19, "state_dict_MB": 84.8, "la
+1 ('DINOv2-S/14', 'fp32', 224, 4) {"model": "DINOv2-S/14", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 22.06, "state_dict_MB": 84.2, "
+1 ('SigLIP-B/16', 'int8', 224, 4) {"model": "SigLIP-B/16", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 92.88, "state_dict_MB": 97.9, "
+2 ('CLIP-B/32', 'fp32', 224, 4) {"model": "CLIP-B/32", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 87.85, "state_dict_MB": 335.2, "l
+2 ('CLIP-B/32', 'int8', 224, 4) {"model": "CLIP-B/32", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 87.85, "state_dict_MB": 91.1, "la
+2 ('DINOv2-S/14', 'fp32', 224, 4) {"model": "DINOv2-S/14", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 22.06, "state_dict_MB": 84.2, "
+2 ('CLIP-B/16', 'fp32', 224, 4) {"model": "CLIP-B/16", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 86.19, "state_dict_MB": 328.9, "l
+2 ('MobileNetV2', 'fp32', 224, 4) {"model": "MobileNetV2", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 2.22, "state_dict_MB": 8.7, "la
+2 ('CLIP-B/16', 'int8', 224, 4) {"model": "CLIP-B/16", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 86.19, "state_dict_MB": 84.8, "la
+2 ('DINOv2-B/14', 'fp32', 224, 4) {"model": "DINOv2-B/14", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 86.58, "state_dict_MB": 330.4, 
+2 ('DINOv2-B/14', 'int8', 224, 4) {"model": "DINOv2-B/14", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 86.58, "state_dict_MB": 87.4, "
+2 ('ResNet-50', 'fp32', 224, 4) {"model": "ResNet-50", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 23.51, "state_dict_MB": 90.0, "la
+2 ('SigLIP-B/16', 'int8', 224, 4) {"model": "SigLIP-B/16", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 92.88, "state_dict_MB": 97.9, "
+2 ('DINOv2-S/14', 'int8', 224, 4) {"model": "DINOv2-S/14", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 22.06, "state_dict_MB": 23.5, "
+2 ('SigLIP-B/16', 'fp32', 224, 4) {"model": "SigLIP-B/16", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 92.88, "state_dict_MB": 354.4, 
+3 ('DINOv2-S/14', 'int8', 224, 4) {"model": "DINOv2-S/14", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 22.06, "state_dict_MB": 23.5, "
+3 ('CLIP-B/32', 'fp32', 224, 4) {"model": "CLIP-B/32", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 87.85, "state_dict_MB": 335.2, "l
+3 ('DINOv2-B/14', 'fp32', 224, 4) {"model": "DINOv2-B/14", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 86.58, "state_dict_MB": 330.4, 
+3 ('SigLIP-B/16', 'fp32', 224, 4) {"model": "SigLIP-B/16", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 92.88, "state_dict_MB": 354.4, 
+3 ('MobileNetV2', 'fp32', 224, 4) {"model": "MobileNetV2", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 2.22, "state_dict_MB": 8.7, "la
+3 ('SigLIP-B/16', 'int8', 224, 4) {"model": "SigLIP-B/16", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 92.88, "state_dict_MB": 97.9, "
+3 ('ResNet-50', 'fp32', 224, 4) {"model": "ResNet-50", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 23.51, "state_dict_MB": 90.0, "la
+3 ('CLIP-B/16', 'int8', 224, 4) {"model": "CLIP-B/16", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 86.19, "state_dict_MB": 84.8, "la
+3 ('CLIP-B/16', 'fp32', 224, 4) {"model": "CLIP-B/16", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 86.19, "state_dict_MB": 328.9, "l
+3 ('DINOv2-S/14', 'fp32', 224, 4) {"model": "DINOv2-S/14", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 22.06, "state_dict_MB": 84.2, "
+3 ('CLIP-B/32', 'int8', 224, 4) {"model": "CLIP-B/32", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 87.85, "state_dict_MB": 91.1, "la
+3 ('DINOv2-B/14', 'int8', 224, 4) {"model": "DINOv2-B/14", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 86.58, "state_dict_MB": 87.4, "

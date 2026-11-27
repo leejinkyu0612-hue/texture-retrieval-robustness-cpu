@@ -1,0 +1,574 @@
+{
+ "DINOv2-S/14|int8|224|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   36.72,
+   23.09,
+   23.18
+  ],
+  "median_of_sessions": 23.18,
+  "range": [
+   23.09,
+   36.72
+  ],
+  "p90_median": 27.76,
+  "throughput_b32_median": 41.0,
+  "state_dict_MB": 23.5,
+  "original_single_session": 40.76,
+  "bg_load": [
+   62.1,
+   21.0,
+   23.3
+  ]
+ },
+ "MobileNetV2|fp32|224|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   15.63,
+   10.4,
+   10.81
+  ],
+  "median_of_sessions": 10.81,
+  "range": [
+   10.4,
+   15.63
+  ],
+  "p90_median": 13.4,
+  "throughput_b32_median": 54.2,
+  "state_dict_MB": 8.7,
+  "original_single_session": 13.17,
+  "bg_load": [
+   60.3,
+   23.0,
+   19.8
+  ]
+ },
+ "SigLIP-B/16|fp32|224|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   183.13,
+   99.59,
+   112.02
+  ],
+  "median_of_sessions": 112.02,
+  "range": [
+   99.59,
+   183.13
+  ],
+  "p90_median": 125.36,
+  "throughput_b32_median": 9.7,
+  "state_dict_MB": 354.4,
+  "original_single_session": 100.39,
+  "bg_load": [
+   70.8,
+   22.3,
+   19.3
+  ]
+ },
+ "CLIP-B/16|fp32|224|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   94.04,
+   104.62,
+   98.83
+  ],
+  "median_of_sessions": 98.83,
+  "range": [
+   94.04,
+   104.62
+  ],
+  "p90_median": 116.96,
+  "throughput_b32_median": 9.2,
+  "state_dict_MB": 328.9,
+  "original_single_session": 101.89,
+  "bg_load": [
+   19.8,
+   20.6,
+   20.5
+  ]
+ },
+ "DINOv2-B/14|fp32|224|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   128.7,
+   124.68,
+   132.54
+  ],
+  "median_of_sessions": 128.7,
+  "range": [
+   124.68,
+   132.54
+  ],
+  "p90_median": 148.24,
+  "throughput_b32_median": 7.5,
+  "state_dict_MB": 330.4,
+  "original_single_session": 191.77,
+  "bg_load": [
+   19.9,
+   20.2,
+   26.0
+  ]
+ },
+ "DINOv2-B/14|int8|224|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   60.1,
+   57.54,
+   57.2
+  ],
+  "median_of_sessions": 57.54,
+  "range": [
+   57.2,
+   60.1
+  ],
+  "p90_median": 65.02,
+  "throughput_b32_median": 16.0,
+  "state_dict_MB": 87.4,
+  "original_single_session": 104.09,
+  "bg_load": [
+   22.5,
+   19.5,
+   19.9
+  ]
+ },
+ "CLIP-B/32|fp32|224|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   38.15,
+   38.39,
+   41.74
+  ],
+  "median_of_sessions": 38.39,
+  "range": [
+   38.15,
+   41.74
+  ],
+  "p90_median": 44.3,
+  "throughput_b32_median": 40.1,
+  "state_dict_MB": 335.2,
+  "original_single_session": 37.69,
+  "bg_load": [
+   20.5,
+   20.6,
+   18.7
+  ]
+ },
+ "CLIP-B/32|int8|224|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   18.75,
+   19.57,
+   18.52
+  ],
+  "median_of_sessions": 18.75,
+  "range": [
+   18.52,
+   19.57
+  ],
+  "p90_median": 21.24,
+  "throughput_b32_median": 85.6,
+  "state_dict_MB": 91.1,
+  "original_single_session": 18.45,
+  "bg_load": [
+   21.4,
+   24.7,
+   19.4
+  ]
+ },
+ "ResNet-50|fp32|224|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   34.51,
+   38.3,
+   35.11
+  ],
+  "median_of_sessions": 35.11,
+  "range": [
+   34.51,
+   38.3
+  ],
+  "p90_median": 41.75,
+  "throughput_b32_median": 22.3,
+  "state_dict_MB": 90.0,
+  "original_single_session": 46.72,
+  "bg_load": [
+   19.6,
+   19.4,
+   19.4
+  ]
+ },
+ "CLIP-B/16|int8|224|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   45.02,
+   45.64,
+   44.27
+  ],
+  "median_of_sessions": 45.02,
+  "range": [
+   44.27,
+   45.64
+  ],
+  "p90_median": 51.15,
+  "throughput_b32_median": 19.8,
+  "state_dict_MB": 84.8,
+  "original_single_session": 46.28,
+  "bg_load": [
+   21.3,
+   18.9,
+   19.2
+  ]
+ },
+ "DINOv2-S/14|fp32|224|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   38.37,
+   41.89,
+   42.4
+  ],
+  "median_of_sessions": 41.89,
+  "range": [
+   38.37,
+   42.4
+  ],
+  "p90_median": 50.06,
+  "throughput_b32_median": 24.1,
+  "state_dict_MB": 84.2,
+  "original_single_session": 54.64,
+  "bg_load": [
+   20.5,
+   18.7,
+   21.4
+  ]
+ },
+ "SigLIP-B/16|int8|224|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   51.24,
+   54.36,
+   52.24
+  ],
+  "median_of_sessions": 52.24,
+  "range": [
+   51.24,
+   54.36
+  ],
+  "p90_median": 60.03,
+  "throughput_b32_median": 19.6,
+  "state_dict_MB": 97.9,
+  "original_single_session": 55.41,
+  "bg_load": [
+   19.0,
+   22.3,
+   21.7
+  ]
+ },
+ "ResNet-50|fp32|160|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   35.61,
+   22.75,
+   23.96
+  ],
+  "median_of_sessions": 23.96,
+  "range": [
+   22.75,
+   35.61
+  ],
+  "p90_median": 27.91,
+  "throughput_b32_median": 48.7,
+  "state_dict_MB": 90.0,
+  "original_single_session": 24.09,
+  "bg_load": [
+   20.0,
+   18.3,
+   18.1
+  ]
+ },
+ "ResNet-50|fp32|112|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   23.11,
+   22.1,
+   17.28
+  ],
+  "median_of_sessions": 22.1,
+  "range": [
+   17.28,
+   23.11
+  ],
+  "p90_median": 25.58,
+  "throughput_b32_median": 73.4,
+  "state_dict_MB": 90.0,
+  "original_single_session": 18.02,
+  "bg_load": [
+   18.9,
+   18.0,
+   16.8
+  ]
+ },
+ "DINOv2-S/14|fp32|160|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   30.27,
+   31.05,
+   19.64
+  ],
+  "median_of_sessions": 30.27,
+  "range": [
+   19.64,
+   31.05
+  ],
+  "p90_median": 37.89,
+  "throughput_b32_median": 36.6,
+  "state_dict_MB": 84.2,
+  "original_single_session": 28.84,
+  "bg_load": [
+   21.5,
+   18.6,
+   23.1
+  ]
+ },
+ "MobileNetV2|fp32|112|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   7.26,
+   9.1,
+   6.99
+  ],
+  "median_of_sessions": 7.26,
+  "range": [
+   6.99,
+   9.1
+  ],
+  "p90_median": 9.28,
+  "throughput_b32_median": 226.3,
+  "state_dict_MB": 8.7,
+  "original_single_session": 6.35,
+  "bg_load": [
+   20.6,
+   31.1,
+   21.2
+  ]
+ },
+ "CLIP-B/16|fp32|160|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   101.88,
+   60.79,
+   55.71
+  ],
+  "median_of_sessions": 60.79,
+  "range": [
+   55.71,
+   101.88
+  ],
+  "p90_median": 70.98,
+  "throughput_b32_median": 18.3,
+  "state_dict_MB": 328.9,
+  "original_single_session": 56.96,
+  "bg_load": [
+   17.2,
+   18.6,
+   19.6
+  ]
+ },
+ "CLIP-B/32|fp32|112|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   25.95,
+   23.72,
+   22.25
+  ],
+  "median_of_sessions": 23.72,
+  "range": [
+   22.25,
+   25.95
+  ],
+  "p90_median": 28.98,
+  "throughput_b32_median": 130.1,
+  "state_dict_MB": 335.2,
+  "original_single_session": 21.6,
+  "bg_load": [
+   21.7,
+   19.5,
+   19.2
+  ]
+ },
+ "SigLIP-B/16|fp32|160|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   93.94,
+   99.29,
+   64.76
+  ],
+  "median_of_sessions": 93.94,
+  "range": [
+   64.76,
+   99.29
+  ],
+  "p90_median": 109.91,
+  "throughput_b32_median": 13.0,
+  "state_dict_MB": 354.4,
+  "original_single_session": 62.03,
+  "bg_load": [
+   22.3,
+   25.4,
+   18.7
+  ]
+ },
+ "MobileNetV2|fp32|160|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   9.55,
+   9.49,
+   8.14
+  ],
+  "median_of_sessions": 9.49,
+  "range": [
+   8.14,
+   9.55
+  ],
+  "p90_median": 10.97,
+  "throughput_b32_median": 107.6,
+  "state_dict_MB": 8.7,
+  "original_single_session": 8.77,
+  "bg_load": [
+   21.1,
+   18.6,
+   19.1
+  ]
+ },
+ "CLIP-B/32|fp32|160|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   31.33,
+   29.98,
+   25.2
+  ],
+  "median_of_sessions": 29.98,
+  "range": [
+   25.2,
+   31.33
+  ],
+  "p90_median": 37.99,
+  "throughput_b32_median": 48.9,
+  "state_dict_MB": 335.2,
+  "original_single_session": 26.66,
+  "bg_load": [
+   17.3,
+   18.3,
+   19.2
+  ]
+ },
+ "DINOv2-S/14|fp32|112|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   17.32,
+   17.85,
+   15.66
+  ],
+  "median_of_sessions": 17.32,
+  "range": [
+   15.66,
+   17.85
+  ],
+  "p90_median": 22.11,
+  "throughput_b32_median": 70.4,
+  "state_dict_MB": 84.2,
+  "original_single_session": 17.74,
+  "bg_load": [
+   20.9,
+   20.9,
+   21.0
+  ]
+ },
+ "SigLIP-B/16|fp32|112|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   50.66,
+   55.98,
+   39.73
+  ],
+  "median_of_sessions": 50.66,
+  "range": [
+   39.73,
+   55.98
+  ],
+  "p90_median": 58.98,
+  "throughput_b32_median": 26.3,
+  "state_dict_MB": 354.4,
+  "original_single_session": 40.94,
+  "bg_load": [
+   21.9,
+   39.6,
+   20.8
+  ]
+ },
+ "DINOv2-B/14|fp32|160|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   101.43,
+   101.14,
+   65.93
+  ],
+  "median_of_sessions": 101.14,
+  "range": [
+   65.93,
+   101.43
+  ],
+  "p90_median": 115.7,
+  "throughput_b32_median": 11.5,
+  "state_dict_MB": 330.4,
+  "original_single_session": 112.15,
+  "bg_load": [
+   19.1,
+   20.4,
+   19.2
+  ]
+ },
+ "CLIP-B/16|fp32|112|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   47.09,
+   48.56,
+   36.12
+  ],
+  "median_of_sessions": 47.09,
+  "range": [
+   36.12,
+   48.56
+  ],
+  "p90_median": 56.16,
+  "throughput_b32_median": 26.3,
+  "state_dict_MB": 328.9,
+  "original_single_session": 37.79,
+  "bg_load": [
+   18.6,
+   18.2,
+   23.2
+  ]
+ },
+ "DINOv2-B/14|fp32|112|4": {
+  "n_sessions": 3,
+  "session_medians": [
+   61.97,
+   46.86,
+   40.01
+  ],
+  "median_of_sessions": 46.86,
+  "range": [
+   40.01,
+   61.97
+  ],
+  "p90_median": 52.77,
+  "throughput_b32_median": 31.6,
+  "state_dict_MB": 330.4,
+  "original_single_session": 39.1,
+  "bg_load": [
+   20.7,
+   25.6,
+   21.8
+  ]
+ }
+}

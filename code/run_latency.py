@@ -49,8 +49,9 @@ rec = {"model": name, "variant": variant, "resolution": res, "threads": threads,
        "state_dict_MB": round(size_mb, 1), "latency_ms_median": round(statistics.median(lat), 2),
        "latency_ms_p90": round(float(np.percentile(lat, 90)), 2), "throughput_img_s_b32": round(32 / statistics.median(tb), 1),
        "rss_loaded_MB": round((rss_loaded - rss0) / 2**20, 1), "peak_wset_MB": round(peak / 2**20, 1),
-       "emb_dim": int(e.shape[1]), "emb_bytes_fp32": int(e.shape[1] * 4), "cpu_load_before_pct": load_cpu, "vision_tower_only": True, "warmup": 20, "timed_runs_b1": 100, "timed_runs_b32": 5}
+       "emb_dim": int(e.shape[1]), "emb_bytes_fp32": int(e.shape[1] * 4), "cpu_load_before_pct": load_cpu, "vision_tower_only": True, "session": os.environ.get("LAT_SESSION", "1"), "warmup": 20, "timed_runs_b1": 100, "timed_runs_b32": 5}
 rec.update(env_info()); log_jsonl("latency.jsonl", rec); print(json.dumps(rec))
+
 
 
 
