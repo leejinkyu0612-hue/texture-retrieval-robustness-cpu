@@ -1,6 +1,6 @@
 # Texture image retrieval: robustness and CPU efficiency of off-the-shelf image embeddings
 
-Code, logs and Supplementary material for the paper *Robustness and CPU Efficiency of Off-the-Shelf Image Embeddings for Texture Image Retrieval under Distribution Shifts* (ICAIIC 2027 submission).
+Code, logs and Supplementary material for the paper *Robustness and CPU Efficiency of Off-the-Shelf Image Embeddings for Texture Retrieval under Query Distribution Shifts* (ICAIIC 2027 submission).
 
 * `PLAN_pre-specified_analysis.md` - analysis plan committed before the main experiment (commit 73f8d9c, 2026-11-27 00:25 KST).
 * `supplementary/S1`-`S7` - perturbation operators, extended results, efficiency checks, CPU benchmark, statistics, versions/checkpoints, plan deviations.
