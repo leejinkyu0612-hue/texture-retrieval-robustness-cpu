@@ -3,28 +3,28 @@
 ('SigLIP-B/16', 'fp32', 224, 4) {"model": "SigLIP-B/16", "variant": "fp32", "resolution": 224, "threads": 4, "params_M": 92.88, "state_dict_MB": 354.4, "latency_ms_median": 100.39, "latency_ms_p90": 113.18, "throughput_img_s_b32": 9
 ('DINOv2-S/14', 'fp32', 224, 4) 
            ~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "C:\Users\leeji\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
+  File "~\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
     if not torch._jit_internal.is_scripting():
            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
 RecursionError: maximum recursion depth exceeded
 
 ('DINOv2-B/14', 'fp32', 224, 4) 
            ~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "C:\Users\leeji\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
+  File "~\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
     if not torch._jit_internal.is_scripting():
            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
 RecursionError: maximum recursion depth exceeded
 
 ('ResNet-50', 'fp32', 224, 4) 
            ~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "C:\Users\leeji\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
+  File "~\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
     if not torch._jit_internal.is_scripting():
            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
 RecursionError: maximum recursion depth exceeded
 
 ('MobileNetV2', 'fp32', 224, 4) 
            ~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "C:\Users\leeji\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
+  File "~\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
     if not torch._jit_internal.is_scripting():
            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
 RecursionError: maximum recursion depth exceeded
@@ -34,14 +34,14 @@ RecursionError: maximum recursion depth exceeded
 ('SigLIP-B/16', 'int8', 224, 4) {"model": "SigLIP-B/16", "variant": "int8", "resolution": 224, "threads": 4, "params_M": 92.88, "state_dict_MB": 97.9, "latency_ms_median": 55.41, "latency_ms_p90": 61.23, "throughput_img_s_b32": 18.9
 ('DINOv2-S/14', 'int8', 224, 4) 
            ~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "C:\Users\leeji\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
+  File "~\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
     if not torch._jit_internal.is_scripting():
            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
 RecursionError: maximum recursion depth exceeded
 
 ('DINOv2-B/14', 'int8', 224, 4) 
            ~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "C:\Users\leeji\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
+  File "~\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
     if not torch._jit_internal.is_scripting():
            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
 RecursionError: maximum recursion depth exceeded
@@ -57,28 +57,28 @@ RecursionError: maximum recursion depth exceeded
 ('SigLIP-B/16', 'fp32', 224, 14) {"model": "SigLIP-B/16", "variant": "fp32", "resolution": 224, "threads": 14, "params_M": 92.88, "state_dict_MB": 354.4, "latency_ms_median": 87.97, "latency_ms_p90": 89.99, "throughput_img_s_b32": 12
 ('DINOv2-S/14', 'fp32', 160, 4) 
            ~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "C:\Users\leeji\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
+  File "~\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
     if not torch._jit_internal.is_scripting():
            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
 RecursionError: maximum recursion depth exceeded
 
 ('DINOv2-S/14', 'fp32', 112, 4) 
            ~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "C:\Users\leeji\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
+  File "~\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
     if not torch._jit_internal.is_scripting():
            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
 RecursionError: maximum recursion depth exceeded
 
 ('DINOv2-S/14', 'fp32', 224, 14) 
            ~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "C:\Users\leeji\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
+  File "~\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
     if not torch._jit_internal.is_scripting():
            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
 RecursionError: maximum recursion depth exceeded
 
 ('DINOv2-B/14', 'fp32', 160, 4) 
            ~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "C:\Users\leeji\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
+  File "~\.aside\runtime\python\venv\Lib\site-packages\torch\autograd\grad_mode.py", line 281, in __init__
     if not torch._jit_internal.is_scripting():
            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
 RecursionError: maximum recursion depth exceeded
